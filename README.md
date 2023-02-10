@@ -3,7 +3,9 @@
 
 <br>
 
-<p><img align="right" src="https://raw.githubusercontent.com/elyr-1/images-src/main/images/statistics.gif" alt="elyr-1" width = 200px /></p>
+<!-- <p>
+    <img align="right" src="https://miro.medium.com/max/1400/1*sUI4nkPfH0wevBQMb29cnQ.jpeg" alt="elyr-1" width = 300px />
+</p> -->
 
 - 🌱 I’m currently working as a Full Stack Developer at Seven Seven Global Services, Inc.
 
@@ -57,14 +59,12 @@
 
 <h2> Stats <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-| ![Ely's github stats](https://github-readme-stats.vercel.app/api?username=elyr-1&show_icons=true&theme=tokyonight) | ![Ely GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elyr-1&theme=tokyonight)                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyr-1&theme=tokyonight)               | ![Github Stars](https://github-readme-stats.vercel.app/api?username=elyr-1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Ely's github stats](https://github-readme-stats.vercel.app/api?username=elyr-1&show_icons=true&theme=tokyonight) | ![Ely GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elyr-1&theme=tokyonight) |
+| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyr-1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="elyr-1" bg_color=#808080/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyr-1&theme=tokyonight">
+</div>
 <br>
 
 <h2> Connect with Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -77,7 +77,7 @@
       alt="adam pithen wala" height="30" width="30" /></a>
     <a href="mailto:elyrick.manlagnit@gmail.com" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/elyr-1/images-src/main/images/gmail.png"
-      alt="gmail" height="27.5" width="40" /></a>
+      alt="gmail" height="25" width="40" /></a>
     <a href="https://github.com/elyr-1" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/elyr-1/images-src/main/images/github.png"
       alt="github" height="30" width="30" />
