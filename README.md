@@ -3,13 +3,11 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/elyr-1/elyr-1/blob/main/animation_500_kxa883sd.gif" alt="elyr-1" /></p>
+<p><img align="right" src="https://raw.githubusercontent.com/elyr-1/images-src/main/images/statistics.gif" alt="elyr-1" width = 200px /></p>
 
 - 🌱 I’m currently working as a Full Stack Developer at Seven Seven Global Services, Inc.
 
-- 📫 How to reach me **elyrick.manlagnit@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 📫 Contact me at **elyrick.manlagnit@gmail.com**
 
 <br>
 
@@ -57,24 +55,19 @@
 
 <br>
 
-<h3>Stats :</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=elyr-1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="elyr-1" 
-    bg_color=#808080/></p>
+<h2> Stats <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
+| ![Ely's github stats](https://github-readme-stats.vercel.app/api?username=elyr-1&show_icons=true&theme=tokyonight) | ![Ely GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elyr-1&theme=tokyonight)                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyr-1&theme=tokyonight)               | ![Github Stars](https://github-readme-stats.vercel.app/api?username=elyr-1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyr-1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="elyr-1" bg_color=#808080/>
+</p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elyr-1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="elyr-1" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyr-1&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="elyr-1" /></p>
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
+<h2> Connect with Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left">
     <a href="https://www.linkedin.com/in/elyrm/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/elyr-1/images-src/main/images/linkedin.png"
